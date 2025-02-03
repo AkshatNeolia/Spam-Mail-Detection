@@ -74,19 +74,3 @@ The project uses a dataset containing labeled emails with two categories:
 ## Visualization
 - Confusion Matrix Heatmap
 - Feature importance analysis using TF-IDF
-
-## Future Improvements
-- Implement **Deep Learning models** for better accuracy.
-- Expand dataset for improved generalization.
-- Deploy as a **web application** for real-time email classification.
-
-## Contributing
-Feel free to contribute by submitting **issues** or **pull requests**.
-
-## License
-This project is licensed under the **MIT License**.
-
----
-**Author:** Your Name
-
-For any queries, contact: [your-email@example.com](mailto:your-email@example.com)
