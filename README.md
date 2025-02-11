@@ -25,7 +25,7 @@ The project uses a dataset containing labeled emails with two categories:
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spam-mail-detection.git
+   git clone https://github.com/AkshatNeolia/spam-mail-detection.git
    cd spam-mail-detection
    ```
 2. Install dependencies:
