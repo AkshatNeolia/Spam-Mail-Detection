@@ -74,7 +74,7 @@ Example:
    ```
 
 ### **6. Frontend (Streamlit UI)**
-(![Screenshot 2025-03-14 221153](https://github.com/user-attachments/assets/845936a3-7d43-4d02-891e-85de0a153faa))  
+![Screenshot 2025-03-14 221153](https://github.com/user-attachments/assets/845936a3-7d43-4d02-891e-85de0a153faa)  
 - Users can enter an email in the **Streamlit interface** and get real-time predictions.
 - Interactive UI with a simple, user-friendly design.
 - Displays prediction results instantly.
